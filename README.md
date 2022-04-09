@@ -34,3 +34,4 @@ npm run serve
 - 浏览器地址栏输入http://localhost:8081/ 可到后台登录界面（账号：admin，密码：admin） 
 - 接口服务器启动在3000端口
 # gymSys
+# gymSys
